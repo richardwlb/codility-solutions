@@ -11,3 +11,4 @@ OddOccurrencesInArray - https://app.codility.com/demo/results/trainingJWKAAQ-FHQ
 
 Time Complexity
 FrogJmp - https://app.codility.com/demo/results/trainingY92KR2-HPD/
+PermMissingElem - https://app.codility.com/demo/results/training6TAGJU-CJR/
