@@ -16,3 +16,6 @@ TapeEquilibrium - https://app.codility.com/demo/results/training4FTERA-2XG/
 
 // Counting Elements 
 PermCheck - https://app.codility.com/demo/results/trainingVH74T7-FZH/
+
+// Sorting
+Distinct - https://app.codility.com/demo/results/training72H7NC-9RK/
