@@ -20,3 +20,6 @@ PermCheck - https://app.codility.com/demo/results/trainingVH74T7-FZH/
 // Sorting
 Distinct - https://app.codility.com/demo/results/training72H7NC-9RK/
 Triangle - https://app.codility.com/demo/results/trainingPDP9BP-4N2/
+
+// Cartepillar method
+AbsDistinct - https://app.codility.com/demo/results/trainingU3YRG9-AZM/
