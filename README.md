@@ -29,8 +29,9 @@ This repository is used to store my Codility solutions.
 [PermMissingElemt](https://app.codility.com/demo/results/training6TAGJU-CJR/ ) <br>
 [TapeEquilibrium](https://app.codility.com/demo/results/training4FTERA-2XG/) <br>
 
-##### Counting Elements 
+#### Counting Elements 
 [PermCheck](https://app.codility.com/demo/results/trainingVH74T7-FZH/)<br>
+[MissingInteger](https://app.codility.com/demo/results/trainingJCZ2ZF-2Y9/)<br>
 
 #### Sorting
 [Distinct](https://app.codility.com/demo/results/training72H7NC-9RK/) <br>
